@@ -58,11 +58,6 @@ namespace EvenNumberConsoleApp
                     }
                 }
             }
-        }
-
-        private static bool IsEven(int rightInput)
-        {
-            return (rightInput & 1) == 0;
-        }
+        }     
     }
 }
