@@ -1,0 +1,13 @@
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\bin\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.exe
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\bin\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.deps.json
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\bin\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.runtimeconfig.json
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\bin\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.runtimeconfig.dev.json
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\bin\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.dll
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\bin\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.pdb
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\obj\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.csprojAssemblyReference.cache
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\obj\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.AssemblyInfoInputs.cache
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\obj\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.AssemblyInfo.cs
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\obj\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\obj\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.dll
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\obj\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.pdb
+C:\Users\smirnik\Desktop\C#\EvenNumber\EvenNumber2MetodConsoleApp\obj\Debug\netcoreapp3.1\EvenNumber2MetodConsoleApp.genruntimeconfig.cache

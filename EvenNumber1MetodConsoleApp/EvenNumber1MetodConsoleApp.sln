@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumber1MetodConsoleApp", "EvenNumber1MetodConsoleApp.csproj", "{DD702544-CF7E-47DD-9292-AB2DAF8C5E0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNumber2MetodConsoleApp", "..\EvenNumber2MetodConsoleApp\EvenNumber2MetodConsoleApp.csproj", "{4FC12117-150A-4A19-8B84-F7796773FF18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DD702544-CF7E-47DD-9292-AB2DAF8C5E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD702544-CF7E-47DD-9292-AB2DAF8C5E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD702544-CF7E-47DD-9292-AB2DAF8C5E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FC12117-150A-4A19-8B84-F7796773FF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FC12117-150A-4A19-8B84-F7796773FF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FC12117-150A-4A19-8B84-F7796773FF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FC12117-150A-4A19-8B84-F7796773FF18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
